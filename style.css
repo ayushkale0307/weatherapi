@@ -1,0 +1,82 @@
+body{
+    background-color: lightsteelblue;
+}
+.rcorners4 {
+    border-radius: 15px;
+    background-color: #ffffff;
+    padding: 20px;
+    width: 1265px;
+    height: 645px;
+  }
+.row{
+    display:flex;
+    width: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+
+.col-1{
+    height:625px;
+    border: 3px solid white;
+    padding: 15;
+    border-radius: 15px;
+    background-color: white;
+    width: 4%;
+}
+.col-2{
+    height:625px;
+    border: 6px solid white;
+    padding: 15;
+    border-radius: 15px;
+    background-color: royalblue;
+    width: 73%;
+}
+.col-3{
+    height:625px;
+    border: 6px solid white;
+    padding: 15;
+    border-radius: 15px;
+    background-color: dodgerblue;
+    width: 23%;
+}
+.btnb{
+    background-color: tomato;
+    border-radius: 8px;
+}
+.btnbtn-primary{
+    border-radius: 8px;
+}
+.btnbtnprimary{
+    border-radius: 8px;
+    background-color: dodgerblue;
+}
+.btnA{
+    border-radius: 8px;
+    border-style: dotted;
+    background-color: dodgerblue;
+    opacity: 0.9;
+}
+.btnc3{
+    border-radius: 8px;
+    background-color: dodgerblue;
+    opacity: 0.75;
+}
+h6{
+    opacity: 0.5;
+}
+.bibi-search{
+    opacity: 0.5;
+    color: royalblue;
+}
+.search{
+    opacity: 0.25;
+    width: 80%;
+    height: 5%;
+}
+.font{
+    font-size: 30px;
+}
+img{
+    border-radius: 20px;
+}
